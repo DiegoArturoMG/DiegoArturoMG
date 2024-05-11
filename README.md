@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdlYnF6d2Ryc3ltYjdod21vZTJ5c2E3eDJ5b29iNWlvM3poZzFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="70"/>
-  <h1 align="center"><code>Hello World!</code> - I'm <a href="https://diegoarturomg.github.io/">DiegoArturoMG</a> 👋</h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdlYnF6d2Ryc3ltYjdod21vZTJ5c2E3eDJ5b29iNWlvM3poZzFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="70"/>
+    <h1 align="center" style="margin-top: 0;"><code>Hello World!</code> - I'm <a href="https://diegoarturomg.github.io/">DiegoArturoMG</a> 👋</h1>
 </div>
 
 
