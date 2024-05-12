@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtYkhkicpGp6672MoXqdzRg?style=social)](https://youtube.com/diegoarturo2121?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/diegoarturomg?style=social)](https://github.com/DiegoArturoMG)
-[![GitHub followers](https://img.shields.io/linkedin/followers/diegoarturomg?style=social)](https://github.com/DiegoArturoMG)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/diegoarturomg)
 
 ## About me ✌️
 
