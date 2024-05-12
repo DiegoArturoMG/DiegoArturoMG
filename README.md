@@ -18,6 +18,7 @@
 ## About me ✌️
 
 - 📲 Senior Software Engineer
+- 👩🏻‍💻 5+ years experience
 <br>
 
 ## Technologies 💻
