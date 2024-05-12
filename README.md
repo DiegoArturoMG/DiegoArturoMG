@@ -16,10 +16,13 @@
 -->
 
 ## About me ✌️
+I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Furthermore, I love developing and leading big projects using various technologies to achieve the team/company objectives.
+- 👩🏻‍💻 Senior Software Engineer
+- ☕ 5+ years experience
 
-- 📲 Senior Software Engineer
-- 👩🏻‍💻 5+ years experience
-<br>
+<div align="right">
+    <i>-Building a better world...</i>
+</div>
 
 ## Technologies 💻
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk)
