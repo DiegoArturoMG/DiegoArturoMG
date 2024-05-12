@@ -2,10 +2,17 @@
     <h1 align="center"><code>Hello World!</code> - I'm <a href="https://diegoarturomg.github.io/">DiegoArturoMG</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdlYnF6d2Ryc3ltYjdod21vZTJ5c2E3eDJ5b29iNWlvM3poZzFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="50"/></h1>
 </div>
 
+<p align="center">
+    <a href="https://youtube.com/diegoarturo2121?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCtYkhkicpGp6672MoXqdzRg?style=social"/></a>
+    <a href="https://github.com/DiegoArturoMG"><img src="https://img.shields.io/github/followers/diegoarturomg?style=social"/></a>
+    <a href="https://www.linkedin.com/in/diegoarturomg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue"/></a>
+</p>
 
+<!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtYkhkicpGp6672MoXqdzRg?style=social)](https://youtube.com/diegoarturo2121?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/diegoarturomg?style=social)](https://github.com/DiegoArturoMG)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/diegoarturomg)
+-->
 
 ## About me ✌️
 
