@@ -4,9 +4,9 @@
 
 <p align="center">
     <a href="https://youtube.com/diegoarturo2121?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCtYkhkicpGp6672MoXqdzRg?style=social"/></a>
-    <a href="https://github.com/DiegoArturoMG"><img src="https://img.shields.io/github/followers/diegoarturomg?style=social"/></a>
+    <a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/github/followers/diegoarturomg?style=social"/></a>
     <a href="https://www.linkedin.com/in/diegoarturomg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue"/></a>
-    <a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/badge/Github%20page-black?logo=github"/></a>
+    <!--<a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/badge/Github%20page-black?logo=github"/></a>-->
 </p>
 
 <!--
