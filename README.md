@@ -5,6 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtYkhkicpGp6672MoXqdzRg?style=social)](https://youtube.com/diegoarturo2121?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/diegoarturomg?style=social)](https://github.com/DiegoArturoMG)
+[![GitHub followers](https://img.shields.io/linkedin/followers/diegoarturomg?style=social)](https://github.com/DiegoArturoMG)
 
 ## About me ✌️
 
@@ -37,7 +38,19 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233871E6?logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%232A2627?logo=ApacheKafka&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23EC6C27?logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-%232CA467?logo=junit5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23C50836?logo=angular&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23080808?logo=IntelliJIDEA&logoColor=white)
+![VSC](https://img.shields.io/badge/VSC-%230078D7?logo=visualstudiocode&logoColor=white)
 
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+</p>
 
 
 
