@@ -50,14 +50,14 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23080808?logo=IntelliJIDEA&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSC-%230078D7?logo=visualstudiocode&logoColor=white)
 
-
+<!--
 ## Connect with me:
 
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-</p>
+</p>-->
 
 
 
