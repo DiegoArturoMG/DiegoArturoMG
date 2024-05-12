@@ -20,7 +20,7 @@
 - 📲 Senior Software Engineer
 <br>
 
-## Tecnologias 💻
+## Technologies 💻
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-%2340749F?logo=python&logoColor=%23FFDD54)
