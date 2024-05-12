@@ -33,7 +33,6 @@
 ![ORACLE](https://img.shields.io/badge/Oracle-%23EF0F0F?logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232A?logo=react&logoColor=%2308D9FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230D1117?logo=Bootstrap&logoColor=%237D57B5)
-<br/>
 ![Figma](https://img.shields.io/badge/Figma-%230B0923?logo=figma)
 ![Git](https://img.shields.io/badge/Git-%23473608?logo=git&logoColor=%23E44C30%20)
 ![NodeJS](https://img.shields.io/badge/NodeJs-%236DA55F?logo=node.js&logoColor=white)
