@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <a href="https://www.youtube.com/@r2d2_dev?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCGbL22AEQGZJvrz6j1xJljw?style=social"/></a>
+    <a href="https://www.youtube.com/@r2d2_dev?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCX_O9d2bf-hLbKZnaiY7cdg?style=social"/></a>
     <a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/github/followers/diegoarturomg?style=social"/></a>
     <a href="https://www.linkedin.com/in/diegoarturomg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue"/></a>
     <!--<a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/badge/Github%20page-black?logo=github"/></a>-->
