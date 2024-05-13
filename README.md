@@ -2,6 +2,8 @@
     <h1 align="center"><code>Hello World!</code> - I'm <a href="https://diegoarturomg.github.io/">DiegoArturoMG</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdlYnF6d2Ryc3ltYjdod21vZTJ5c2E3eDJ5b29iNWlvM3poZzFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="50"/></h1>
 </div>
 
+<img src="https://github.com/DiegoArturoMG/DiegoArturoMG/assets/34111578/66133a32-e8af-45ab-aa36-68892bea4752">
+
 <p align="center">
     <a href="https://www.youtube.com/@r2d2_dev?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCX_O9d2bf-hLbKZnaiY7cdg?style=social"/></a>
     <a href="https://diegoarturomg.github.io"><img src="https://img.shields.io/github/followers/diegoarturomg?style=social"/></a>
