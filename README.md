@@ -114,7 +114,8 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 <!--- trophy (start) -->
 </p>
 
+<!--
 ### 😂 Random Dev Meme
 <div align=center>
 <img src='https://memer-new.vercel.app/' style="height: 200px;"/>
-</div>
+</div>-->
