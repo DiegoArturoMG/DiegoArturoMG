@@ -75,8 +75,8 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 
 <p align="center">
 <a href="https://github.com/DiegoArturoMG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoArturoMG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoArturoMG&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoArturoMG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoArturoMG&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
@@ -104,7 +104,7 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=diegoarturomg&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=diegoarturomg&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
