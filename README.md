@@ -35,9 +35,6 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=SPRING&logoColor=white)
-<!--![Python](https://img.shields.io/badge/Python-%2340749F?logo=python&logoColor=%23FFDD54)-->
-![C++](https://img.shields.io/badge/C%2B%2B-%23004283?logo=C%2B%2B)
-<!--![Golang](https://img.shields.io/badge/GO-%2308AFD8?logo=GO&logoColor=white)-->
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![YAML](https://img.shields.io/badge/YAML-%23FFFFFF?logo=yaml&logoColor=%23323232)
@@ -46,7 +43,6 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-%23084161?logo=opensearch&logoColor=%23BBDAEC)
 ![Docker](https://img.shields.io/badge/Docker-%230894E3?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233871E6?logo=kubernetes&logoColor=white)
-<!--![NodeJS](https://img.shields.io/badge/NodeJs-%236DA55F?logo=node.js&logoColor=white)-->
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23F43A36?logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana%20-%20black?logo=Grafana)
 ![Kafka](https://img.shields.io/badge/Kafka-%232A2627?logo=ApacheKafka&logoColor=white)
@@ -56,12 +52,16 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 ![MySQL](https://img.shields.io/badge/MySQL-%23087699?logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-%23EF0F0F?logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232A?logo=react&logoColor=%2308D9FF)
-<!--![Angular](https://img.shields.io/badge/Angular-%23C50836?logo=angular&logoColor=white)-->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230D1117?logo=Bootstrap&logoColor=%237D57B5)
 ![Figma](https://img.shields.io/badge/Figma-%230B0923?logo=figma)
 ![Maven](https://img.shields.io/badge/Maven-%23EC6C27?logo=apachemaven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23080808?logo=IntelliJIDEA&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSC-%230078D7?logo=visualstudiocode&logoColor=white)
+<!--![C++](https://img.shields.io/badge/C%2B%2B-%23004283?logo=C%2B%2B)-->
+<!--![Python](https://img.shields.io/badge/Python-%2340749F?logo=python&logoColor=%23FFDD54)-->
+<!--![Golang](https://img.shields.io/badge/GO-%2308AFD8?logo=GO&logoColor=white)-->
+<!--![NodeJS](https://img.shields.io/badge/NodeJs-%236DA55F?logo=node.js&logoColor=white)-->
+<!--![Angular](https://img.shields.io/badge/Angular-%23C50836?logo=angular&logoColor=white)-->
 
 <!--
 ## Connect with me:
