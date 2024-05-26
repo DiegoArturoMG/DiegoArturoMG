@@ -41,6 +41,7 @@ I completed my major in Computer Systems Engineer at ESCOM-IPN | Mexico. Further
 ![Git](https://img.shields.io/badge/Git-%23473608?logo=git&logoColor=%23E44C30%20)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%2342C0B3?logo=elasticsearch&logoColor=%23F4BF20)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-%23084161?logo=opensearch&logoColor=%23BBDAEC)
+![OCI](https://img.shields.io/badge/OCI-%23EF0F0F?logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230894E3?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233871E6?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23F43A36?logo=jenkins&logoColor=white)
